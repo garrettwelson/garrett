@@ -1,0 +1,28 @@
+{
+  "items": [
+    {
+      "text": "home",
+      "url": "/"
+    },
+    {
+      "text": "resume",
+      "url": "/resume/"
+    },
+    {
+      "text": "projects",
+      "url": "/projects/"
+    },
+    {
+      "text": "blog",
+      "url": "/blog/"
+    },
+    {
+      "text": "faq",
+      "url": "/faq/"
+    },
+    {
+      "text": "contact",
+      "url": "/contact/"
+    }
+  ]
+}
